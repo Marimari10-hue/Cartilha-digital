@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Sinais de Alerta</title>
+
+    <link rel="stylesheet" href="sinais.css">
+</head>
+<body>
+
+    <section>
+
+        <h1>Sinais de Alerta</h1>
+
+        <ul>
+            <li>Isolamento frequente</li>
+            <li>Desânimo constante</li>
+            <li>Dificuldade para dormir</li>
+            <li>Mudanças bruscas de comportamento</li>
+            <li>Perda de interesse nas atividades</li>
+        </ul>
+
+        <a href="index.html">Voltar</a>
+
+    </section>
+
+</body>
+</html>

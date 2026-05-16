@@ -1,0 +1,32 @@
+body{
+    background:#fff3b0;
+    font-family:Arial;
+}
+
+main{
+    width:70%;
+    margin:auto;
+    padding:50px;
+}
+
+h1{
+    color:#fb8500;
+    margin-bottom:30px;
+}
+
+.caixa{
+    background:white;
+    padding:30px;
+    border-radius:20px;
+    line-height:1.8;
+}
+
+a{
+    display:inline-block;
+    margin-top:20px;
+    background:#fb8500;
+    color:white;
+    text-decoration:none;
+    padding:10px 20px;
+    border-radius:10px;
+}

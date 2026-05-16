@@ -1,0 +1,35 @@
+body{
+    background:#edf6f9;
+    font-family:Arial;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+section{
+    background:white;
+    padding:40px;
+    border-radius:20px;
+    width:60%;
+    text-align:center;
+}
+
+h1{
+    margin-bottom:20px;
+    color:#219ebc;
+}
+
+p{
+    line-height:1.8;
+}
+
+a{
+    display:inline-block;
+    margin-top:20px;
+    text-decoration:none;
+    background:#219ebc;
+    color:white;
+    padding:10px 20px;
+    border-radius:10px;
+}
